@@ -1,0 +1,169 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TourGuide</string>
+    <string name="delhi">Delhi</string>
+    <string name="agra">Agra</string>
+    <string name="shimla">Shimla</string>
+    <string name="telangana">Telangana</string>
+    <string name="Jk">Jammu &amp; Kashmir</string>
+    <string name="placeN">Name</string>
+    <string name="placeL">Location</string>
+    <string name="placeD">Description</string>
+    <!-- Delhi list -->
+    <string name="Delhi_Place1">The Red Fort</string>
+    <string name="Delhi_Place2">Qutb Minar</string>
+    <string name="Delhi_Place3">India Gate</string>
+    <string name="Delhi_Place4">Jama Masjid, Delhi</string>
+    <string name="Delhi_Place5">Humayun\'s Tomb</string>
+    <string name="Delhi_Place6">Lotus Temple</string>
+    <string name="Delhi_Place7">Akshardham</string>
+    <string name="Delhi_Place8">Purana Qila</string>
+    <string name="Delhi_Place9">Jantar Mantar, New Delhi</string>
+    <string name="Delhi_Place10">Laxminarayan Temple</string>
+
+    <string name="Delhi_Place1Location">Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006</string>
+    <string name="Delhi_Place2Location">Mehrauli, New Delhi, Delhi 110030</string>
+    <string name="Delhi_Place3Location">Rajpath, India Gate, New Delhi, Delhi 110001</string>
+    <string name="Delhi_Place4Location">Meena Bazaar, Jama Masjid, Chandni Chowk, New Delhi, Delhi 110006</string>
+    <string name="Delhi_Place5Location">Mathura Road, Opposite Dargah Nizamuddin, New Delhi, Delhi 110013</string>
+    <string name="Delhi_Place6Location">Lotus Temple Rd, Bahapur, Shambhu Dayal Bagh, Kalkaji, New Delhi, Delhi 110019</string>
+    <string name="Delhi_Place7Location">Noida Mor, Pandav Nagar, New Delhi, Delhi 110092</string>
+    <string name="Delhi_Place8Location">Mathura Rd, Near Delhi Zoo, New Delhi, Delhi 110003</string>
+    <string name="Delhi_Place9Location">Sansad Marg, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="Delhi_Place10Location">Mandir Marg, Near Gole market, New Delhi, Delhi 110001</string>
+
+    <string name="Delhi_Place1Description">Red Fort is a historic fort in the city of Delhi in India. It was the main residence of the emperors of the Mughal dynasty for nearly 200 years, until 1856. It is located in the center of Delhi and houses a number of museums.</string>
+    <string name="Delhi_Place2Description">The Qutub Minar, also spelled as Qutab Minar, or Qutb Minar, is the tallest minaret in the world made up of bricks. The minaret forms a part of the Qutab complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India.</string>
+    <string name="Delhi_Place3Description">The India Gate is a war memorial located astride the Rajpath, on the eastern edge of the "ceremonial axis" of New Delhi, India, formerly called Kingsway.</string>
+    <string name="Delhi_Place4Description">The Masjid-i Jahān-Numā, commonly known as the Jama Masjid devnagrii: जामा मस्जिद, Urdu: جامع مسجد of Delhi, is one of the largest mosques in India.</string>
+    <string name="Delhi_Place5Description">Humayun\'s tomb is the tomb of the Mughal Emperor Humayun in Delhi, India. The tomb was commissioned by Humayun\'s first wife and chief consort, Empress Bega Begum, in 1569–70, and designed by Mirak Mirza.</string>
+    <string name="Delhi_Place6Description">The Lotus Temple, located in Delhi, India, is a Bahá\'í House of Worship that was dedicated in December 1986, costing $10 million. Notable for its flowerlike shape, it has become a prominent attraction in the city.</string>
+    <string name="Delhi_Place7Description">Akshardham or Swaminarayan Akshardham complex is a Hindu temple, and a spiritual-cultural campus in Delhi, India.</string>
+    <string name="Delhi_Place8Description">Purana Qila\' is one of the oldest forts in Delhi. The present citadel at Purana Qila was believed to have been built under Humayun and Afghan Sher Shah Suri.</string>
+    <string name="Delhi_Place9Description">Jantar Mantar is located in the modern city of New Delhi. It consists of 13 architectural astronomy instruments.</string>
+    <string name="Delhi_Place10Description">The Laxminarayan Temple, also known as the Birla Mandir is a Hindu temple up to large extent dedicated to Laxminarayan in Delhi, India.</string>
+
+    <!-- Agra list -->
+    <string name="Agra_Place1">Taj Mahal</string>
+    <string name="Agra_Place2">Agra Fort</string>
+    <string name="Agra_Place3">Tomb of I\'timād-ud-Daulah</string>
+    <string name="Agra_Place4">Akbar\'s tomb</string>
+    <string name="Agra_Place5">Mehtab Bagh</string>
+    <string name="Agra_Place6">Moti Masjid</string>
+    <string name="Agra_Place7">Jama Mosque, Agra</string>
+    <string name="Agra_Place8">Tomb of Mariam-uz-Zamani</string>
+    <string name="Agra_Place9">Chini Ka Rauza</string>
+    <string name="Agra_Place10">Jama Mosque, Fatehpur Sikri</string>
+
+    <string name="Agra_Place1Location">Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001</string>
+    <string name="Agra_Place2Location">Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003</string>
+    <string name="Agra_Place3Location">Moti Bagh, Agra, Uttar Pradesh 282006</string>
+    <string name="Agra_Place4Location">Tomb of Akbar The Great Area, Sikandra, Agra, Uttar Pradesh 282007</string>
+    <string name="Agra_Place5Location">Near Taj Mahal, Dharmapuri, Forest Colony, Nagla Devjit, Agra, Uttar Pradesh 282001</string>
+    <string name="Agra_Place6Location">State Highway 62, Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003</string>
+    <string name="Agra_Place7Location">Jama Masjid Road, Kinari Bazar, Hing ki Mandi, Mantola, Agra, Uttar Pradesh 282003</string>
+    <string name="Agra_Place8Location">Mathura Delhi Highway, Near Delhi Highway, Sikandra, Agra, Uttar Pradesh 282007</string>
+    <string name="Agra_Place9Location">Ram Bagh, Agra, Uttar Pradesh 282007</string>
+    <string name="Agra_Place10Location">Dadupura, Fatehpur Sikri, Uttar Pradesh 283110</string>
+
+    <string name="Agra_Place1Description">The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favourite wife, Mumtaz Mahal.</string>
+    <string name="Agra_Place2Description">Agra Fort is a historical fort in the city of Agra in India. It was the main residence of the emperors of the Mughal Dynasty till 1638, when the capital was shifted from Agra to Delhi. The Agra fort is a UNESCO World Heritage site.</string>
+    <string name="Agra_Place3Description">Tomb of I\'timād-ud-Daulah is a Mughal mausoleum in the city of Agra in the Indian state of Uttar Pradesh. Often described as a "jewel box", sometimes called the "Baby Tāj", the tomb of I'timād-ud-Daulah is often regarded as a draft of the Tāj Mahal.</string>
+    <string name="Agra_Place4Description">Akbar\'s tomb is the tomb of the Mughal emperor, Akbar and an important Mughal architectural masterpiece. It was built in 1604–1613 and is situated in 119 acres of grounds in Sikandra, a suburb of Agra, Uttar Pradesh, India.</string>
+    <string name="Agra_Place5Description">Mehtab Bagh is a charbagh complex in Agra, North India. It lies north of the Taj Mahal complex and the Agra Fort on the opposite side of the Yamuna River, in the flood plains.</string>
+    <string name="Agra_Place6Description">The Moti Masjid in Agra was built by Shah Jahan. During the rule of Shah Jahan the Mughal emperor, numerous architectural wonders were built, the most famous of them being the Taj Mahal.</string>
+    <string name="Agra_Place7Description">Jama Masjid in Agra is opposite the Agra fort and overlooking the Agra Fort Railway Station. The Jama Masjid is also popularly known as the Jami Masjid or "Friday Mosque". It is one of the largest mosques in India.</string>
+    <string name="Agra_Place8Description">The Tomb of Mariam-uz-Zamani is the mausoleum of Jodha Bai, the Queen consort of the Mughal Emperor Akbar. The tomb was built by Jahangir, in memory of his mother Mariam-uz-Zamani. The tomb is located in Sikandra, a suburb of Agra.</string>
+    <string name="Agra_Place9Description">Chini ka Rauza is a funerary monument, rauza in Agra, India, containing the tomb of Allama Afzal Khan Mullah, a scholar and poet who was the Prime Minister of the Mughal Emperor Shah Jahan. The tomb was built in 1635.</string>
+    <string name="Agra_Place10Description">The Jama Masjid, a.k.a. Jami Masjid, is a 17th-century mosque in the World Heritage Site of Fatehpur Sikri in India. The Mughal emperor Akbar personally directed the building of the Jāmiʿ Masjid, which stretches some 540 feet in length.</string>
+
+    <!-- Shimla list -->
+    <string name="Shimla_Place1">Jakhoo</string>
+    <string name="Shimla_Place2">Christ Church</string>
+    <string name="Shimla_Place3">Rashtrapati Niwas</string>
+    <string name="Shimla_Place4">Indian Institute of Advanced Study</string>
+    <string name="Shimla_Place5">Bantony Castle</string>
+    <string name="Shimla_Place6">Johnnie\'s Wax Museum</string>
+    <string name="Shimla_Place7">Himalayan Bird Park</string>
+    <string name="Shimla_Place8">Gorton Castle</string>
+    <string name="Shimla_Place9">Himachal Pradesh State Museum</string>
+    <string name="Shimla_Place10">Hawa Ghar</string>
+
+    <string name="Shimla_Place1Location">Jakhu Temple Park, Jakhu, Shimla, Himachal Pradesh 171001</string>
+    <string name="Shimla_Place2Location">Mall Rd, Lakkar Bazar, Shimla, Himachal Pradesh 171001</string>
+    <string name="Shimla_Place3Location">Rashtrapati Nivas, Observatory Hill, Near Summer Hill Railway Station, Shimla, Himachal Pradesh 171005</string>
+    <string name="Shimla_Place4Location">Rashtrapati Nivas, Chaura Maidan, Near Birds Zoo, Shimla, Himachal Pradesh 171005</string>
+    <string name="Shimla_Place5Location">Kali Bari Rd, The Mall, Shimla, Himachal Pradesh 171001</string>
+    <string name="Shimla_Place6Location">Mall Rd, Near Tourism Lift, Bemloi, Shimla, Himachal Pradesh 171001</string>
+    <string name="Shimla_Place7Location">Museum Road, Near Advanced University, Chaura Maidan, Shimla, Himachal Pradesh 171004</string>
+    <string name="Shimla_Place8Location">Mall Rd, Nabha, Shimla, Himachal Pradesh 171003</string>
+    <string name="Shimla_Place9Location">Near Doordarshan Kendra, Chaura Maidan, Shimla, Himachal Pradesh 171004</string>
+    <string name="Shimla_Place10Location">Ridge, The Mall, Shimla, Himachal Pradesh 171001</string>
+
+    <string name="Shimla_Place1Description">Jakhoo Temple is an ancient temple in Shimla, dedicated to Hindu deity, Hanuman. It is situated on Jakhoo Hill, 2.5 km /1.3 miles east from the Ridge, Shimla at a height of 2,455 m above sea level.</string>
+    <string name="Shimla_Place2Description">Christ Church, Shimla, is the second oldest church in North India, after St John\'s Church in Meerut. It is a parish in the Diocese of Amritsar in the Church of North India.</string>
+    <string name="Shimla_Place3Description">The Rashtrapati Niwas, also known as Viceregal Lodge, is located on the Observatory Hills of Shimla, Himachal Pradesh, India. It was formerly the residence of the British Viceroy of India.</string>
+    <string name="Shimla_Place4Description">The Indian Institute of Advanced Study is a research institute based in Shimla, India. It was set up by the Ministry of Education, Government of India in 1964 and it started functioning from 20 October 1965.</string>
+    <string name="Shimla_Place5Description">Colonial-era Maharaja palace with Tudor architecture &amp; expansive grounds, slated to become a museum.</string>
+    <string name="Shimla_Place6Description">Modest attraction featuring life-sized wax figures of local &amp; international icons.</string>
+    <string name="Shimla_Place7Description">Small, simple park, open in summer only, exhibiting a range of native &amp; exotic birds.</string>
+    <string name="Shimla_Place8Description">Originally constructed in the 19th century, this landmark castle boasts neo-Gothic architecture.</string>
+    <string name="Shimla_Place9Description">Art &amp; artifacts such as ancient tools, dolls, coins &amp; traditional garments in a Victorian mansion.</string>
+    <string name="Shimla_Place10Description">Elevated pavilion offering vistas of Shimla\'s Mall Road, the Ridge esplanade &amp; the Himalayas.</string>
+
+    <!-- Telangana list -->
+    <string name="Telangana_Place1">Charminar</string>
+    <string name="Telangana_Place2">Golkonda</string>
+    <string name="Telangana_Place3">Ramoji Film City</string>
+    <string name="Telangana_Place4">Salar Jung Museum</string>
+    <string name="Telangana_Place5">Chowmahalla Palace</string>
+    <string name="Telangana_Place6">Nehru Zoological Park</string>
+    <string name="Telangana_Place7">Makkah Masjid, Hyderabad</string>
+    <string name="Telangana_Place8">Snow World</string>
+    <string name="Telangana_Place9">Qutb Shahi tombs</string>
+    <string name="Telangana_Place10">Thousand Pillar Temple</string>
+
+    <string name="Telangana_Place1Location">Char Kaman, Ghansi Bazaar, Hyderabad, Telangana 500002</string>
+    <string name="Telangana_Place2Location">Khair Complex, Ibrahim Bagh, Hyderabad, Telangana 500008</string>
+    <string name="Telangana_Place3Location">Ramoji Film City Main Road, Anaspur Village, Hayathnagar Mandal, Hyderabad, Telangana 501512</string>
+    <string name="Telangana_Place4Location">Salar Jung Road, Near Minar Function Hall, Darulshifa, Hyderabad, Telangana 500002</string>
+    <string name="Telangana_Place5Location">20–4–236, Motigalli, Khilwat, Hyderabad, Telangana 500002</string>
+    <string name="Telangana_Place6Location">NH 44, Bahadurpura, Hyderabad, Telangana 500064</string>
+    <string name="Telangana_Place7Location"> Near Charminar, Ghansi Bazaar, Hyderabad, Telangana 500002</string>
+    <string name="Telangana_Place8Location">Survey No. 54, Lower Tank Bund Rd, Lower Tank Bund, Kavadiguda, Hyderabad, Telangana 500080</string>
+    <string name="Telangana_Place9Location"> Qutub Shahi Tombs, Hyderabad, Telangana 500008</string>
+    <string name="Telangana_Place10Location">Warangal-Hyderabad Rd, Brahmanawada, Hanamkonda, Telangana 506011</string>
+
+    <string name="Telangana_Place1Description">The Charminar, constructed in 1591, is a monument and mosque located in Hyderabad, Telangana, India. The landmark has become a global icon of Hyderabad, listed among the most recognized structures of India.</string>
+    <string name="Telangana_Place2Description">Golkonda, also known as Golconda, Gol konda, or Golla konda, is a citadel and fort in Southern India and was the capital of the medieval sultanate of the Qutb Shahi dynasty, is situated 11 km west of Hyderabad.</string>
+    <string name="Telangana_Place3Description">The Ramoji Film City in India is located in Hyderabad. Spread over 2000 acres, it is the largest integrated film city in Telangana and has been certified by the Guinness World Records as the largest studio complex in the world.</string>
+    <string name="Telangana_Place4Description">The Salar Jung Museum is an art museum located at Darushifa, on the southern bank of the Musi River in the city of Hyderabad, Telangana, India. It is one of the three National Museums of India.</string>
+    <string name="Telangana_Place5Description">Chowmahalla Palace or Chowmahallatuu, is a palace of the Nizams of Hyderabad state. It was the seat of the Asaf Jahi dynasty and was the official residence of the Nizams of Hyderabad while they ruled their state. </string>
+    <string name="Telangana_Place6Description">Nehru Zoological Park is a zoo located near Mir Alam Tank in Hyderabad, Telangana, India. It is one of the most visited destinations in Hyderabad. Zoo hours vary by season, and the zoo is closed on Mondays.</string>
+    <string name="Telangana_Place7Description">Mecca Masjid, is one of the oldest mosques in Hyderabad, Telangana in India, and it is one of the largest masajids in India. </string>
+    <string name="Telangana_Place8Description">Snow World is an amusement park located in Hyderabad, Telangana, India within an area of about 2 acres. Located beside Indira Park and along the Hussain Sagar lake, the park was inaugurated on 28 January 2004.</string>
+    <string name="Telangana_Place9Description">The Qutb Shahi Tombs are located in the Ibrahim Bagh, close to the famous Golconda Fort in Hyderabad, India. They contain the tombs and mosques built by the various kings of the Qutb Shahi dynasty.</string>
+    <string name="Telangana_Place10Description">The Thousand Pillar Temple or Rudreshwara Swamy Temple is a historic Hindu temple located in the town of Hanamakonda, Telangana State, India. It is dedicated to Lord Shiva, Vishnu and Surya.</string>
+
+    <!-- Jk list -->
+    <string name="JK_Place1">Raghunath Temple</string>
+    <string name="JK_Place2">Chemrey Monastery</string>
+    <string name="JK_Place3">Kardang Monastery</string>
+    <string name="JK_Place4">Khanqah-e-Moula</string>
+    <string name="JK_Place5">Pathar Masjid</string>
+    <string name="JK_Place6">Amar Mahal Palace</string>
+
+    <string name="JK_Place1Location">Fatthu Chaugan, Pakki Dhaki, Old Heritage City, Jammu, Jammu and Kashmir 180001</string>
+    <string name="JK_Place2Location">Chemrey, Jammu and Kashmir 194201</string>
+    <string name="JK_Place3Location">Himachal Pradesh 175140</string>
+    <string name="JK_Place4Location">New Zaina Kadal Bridge, Shamswari, Srinagar, Jammu and Kashmir 190002</string>
+    <string name="JK_Place5Location">Nohata, Srinagar, Jammu and Kashmir 190002</string>
+    <string name="JK_Place6Location">Palace Road, Karan Nagar, Jammu Tawi, Jammu, Jammu and Kashmir 180001</string>
+
+    <string name="JK_Place1Description">Raghunath Temple consists of a complex of seven Hindu shrines, each with its own Shikhara. It is one of the largest temple complexes of north India. It is located in Jammu in the Indian state of Jammu and Kashmir.</string>
+    <string name="JK_Place2Description">Chemrey Monastery or Chemrey Gompa is a 1664 Buddhist monastery, approximately 40 kilometres east of Leh, Ladakh, northern India. It belongs to the Drugpa monastic order.</string>
+    <string name="JK_Place3Description">Kardang Monastery or Gompa is a famous Drukpa Lineage monastery, and is the most important monastery the Lahaul valley, India. The associated village of Kardang was once the capital of Lahaul.</string>
+    <string name="JK_Place4Description">Khanqah-e-Moula, also known as Shah-e-Hamadan Masjid and Khanqah mosque and first historical masjid in kashmir and this place are known as where sayyid Ali Hamadani start the preaching of Islam </string>
+    <string name="JK_Place5Description">Pathar Masjid, known locally as Naev Masheed, is a Mughal era stone mosque located in the old city of Srinagar, in the Indian state of Jammu and Kashmir.</string>
+    <string name="JK_Place6Description">The Amar Mahal Palace is a palace in Jammu, in the Indian state of Jammu and Kashmir, India, which has now been converted into a Museum.</string>
+</resources>
+
