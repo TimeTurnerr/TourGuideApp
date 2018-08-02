@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
+import android.widget.GridView;
 import android.widget.ListView;
 import java.util.ArrayList;
 public class JkFragment extends Fragment {
@@ -18,12 +19,11 @@ public class JkFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.place_list, container, false);
         rootView.getRootView().setBackgroundColor(Color.WHITE);
         final ArrayList<Places> places = new ArrayList<Places>();
-        places.add(new Places(getResources().getString(R.string.JK_Place1), getResources().getString(R.string.JK_Place1Location),getResources().getString(R.string.JK_Place1Description), R.drawable.number_one));
-        places.add(new Places(getResources().getString(R.string.JK_Place2), getResources().getString(R.string.JK_Place2Location),getResources().getString(R.string.JK_Place2Description), R.drawable.number_two));
-        places.add(new Places(getResources().getString(R.string.JK_Place3), getResources().getString(R.string.JK_Place3Location),getResources().getString(R.string.JK_Place3Description), R.drawable.number_three));
-        places.add(new Places(getResources().getString(R.string.JK_Place4), getResources().getString(R.string.JK_Place4Location),getResources().getString(R.string.JK_Place4Description), R.drawable.number_four));
-        places.add(new Places(getResources().getString(R.string.JK_Place5), getResources().getString(R.string.JK_Place5Location),getResources().getString(R.string.JK_Place5Description), R.drawable.number_five));
-        places.add(new Places(getResources().getString(R.string.JK_Place6), getResources().getString(R.string.JK_Place6Location),getResources().getString(R.string.JK_Place6Description), R.drawable.number_six));
+        places.add(new Places(getResources().getString(R.string.JK_Place1), getResources().getString(R.string.JK_Place1Location),getResources().getString(R.string.JK_Place1Description), R.drawable.raghunath_temple));
+        places.add(new Places(getResources().getString(R.string.JK_Place2), getResources().getString(R.string.JK_Place2Location),getResources().getString(R.string.JK_Place2Description), R.drawable.chemrey_monastery));
+        places.add(new Places(getResources().getString(R.string.JK_Place3), getResources().getString(R.string.JK_Place3Location),getResources().getString(R.string.JK_Place3Description), R.drawable.kardang_monastery));
+        places.add(new Places(getResources().getString(R.string.JK_Place5), getResources().getString(R.string.JK_Place5Location),getResources().getString(R.string.JK_Place5Description), R.drawable.pather_masjid));
+        places.add(new Places(getResources().getString(R.string.JK_Place6), getResources().getString(R.string.JK_Place6Location),getResources().getString(R.string.JK_Place6Description), R.drawable.amar_mahal_palace));
         PlacesAdapter adapter = new PlacesAdapter(getActivity(), places);
         ListView listView = (ListView) rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);
